@@ -2,7 +2,7 @@
 
 A deep learning–based **multi-face recognition application** that detects multiple faces in an image, identifies known individuals, and reports similarity confidence using **FaceNet (VGGFace2)** embeddings.
 
- **Live Demo:** (Add your Hugging Face Space link here)  
+ **Live Demo:** (https://agents-multi-face-recognition.streamlit.app/)  
  **GitHub Repository:** (Add your GitHub repo link here)
 
 ---
